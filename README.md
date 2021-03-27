@@ -8,4 +8,4 @@ This project deals with comparison of Extended Kalman Filter (EKF) and Unscented
 [1] Buch, J., Kakad, Y., Amengonu, Y., 2017, August. Performance comparison of extended Kalman filter and unscented Kalman filter for the control moment gyroscope inverted pendulum. In 2017 25th International Conference on Systems Engineering (ICSEng) (pp. 57-62). IEEE.
 
 # Acknowledgement
-Yogendra kakad, Yawo Amengonu, Douglas Isenberg
+Prof. Yogendra Kakad, Yawo Amengonu, Douglas Isenberg
